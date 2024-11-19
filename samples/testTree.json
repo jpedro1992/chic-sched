@@ -1,0 +1,37 @@
+{
+    "kind": "TopologyTree",
+    "metadata": {
+      "name": "test-tree"
+    },
+    "spec": {
+      "resource-names": [
+        "cpu",
+        "memory"
+      ],
+      "level-names": [
+        "rack",
+        "server"
+      ],
+      "tree": {
+        "level": {
+
+          "rack-0": {
+            "level": {
+              "node-0": {},
+              "node-1": {},
+              "node-2": {}
+            }
+          },
+
+          "rack-1": {
+            "level": {
+              "node-3": {},
+              "node-4": {},
+              "node-5": {}
+            }
+          }
+          
+        }
+      }
+    }
+}
