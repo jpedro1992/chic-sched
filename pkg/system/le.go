@@ -3,7 +3,7 @@ package system
 import (
 	"fmt"
 
-	"github.com/ibm/chic-sched/pkg/util"
+	"github.com/jpedro1992/chic-sched/pkg/util"
 )
 
 // LE : Logical Entity

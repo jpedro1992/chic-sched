@@ -2,8 +2,7 @@ package placement
 
 import (
 	"fmt"
-
-	"github.com/ibm/chic-sched/pkg/util"
+	"github.com/jpedro1992/chic-sched/pkg/util"
 )
 
 // SizeRange : desired range of number of members to place in a node

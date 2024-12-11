@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/ibm/chic-sched/pkg/system"
+	"github.com/jpedro1992/chic-sched/pkg/system"
 )
 
 // Node : a basic node in a tree
@@ -207,7 +207,7 @@ func (node *Node) GetLeavesDepth() (nodeValue []*NodeValue) {
 // e.g. A -> ( C -> ( D ) B )
 func (n *Node) String() string {
 	var b bytes.Buffer
-	b.WriteString(n.GetID())
+	b.WriteString(fmt.Sprintf("%s ", n.GetID()))
 	if !n.IsLeaf() {
 		b.WriteString(" -> ( ")
 		// order children by name
