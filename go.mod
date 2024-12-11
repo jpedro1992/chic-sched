@@ -1,4 +1,4 @@
-module github.com/ibm/chic-sched
+module github.com/jpedro1992/chic-sched
 
 go 1.20
 

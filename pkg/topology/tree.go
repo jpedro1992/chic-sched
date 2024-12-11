@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/ibm/chic-sched/pkg/system"
+	"github.com/jpedro1992/chic-sched/pkg/system"
 )
 
 // Tree : a basic tree

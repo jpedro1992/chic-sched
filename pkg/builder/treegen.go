@@ -1,12 +1,11 @@
 package builder
 
 import (
+	"github.com/jpedro1992/chic-sched/pkg/system"
+	"github.com/jpedro1992/chic-sched/pkg/topology"
+	"github.com/jpedro1992/chic-sched/pkg/util"
 	"strconv"
 	"unsafe"
-
-	"github.com/ibm/chic-sched/pkg/system"
-	"github.com/ibm/chic-sched/pkg/topology"
-	"github.com/ibm/chic-sched/pkg/util"
 )
 
 // TreeGen : a physical tree and system generator

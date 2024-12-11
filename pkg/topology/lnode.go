@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"unsafe"
 
-	"github.com/ibm/chic-sched/pkg/system"
+	"github.com/jpedro1992/chic-sched/pkg/system"
 )
 
 // LNode : a node in a logical tree topology
