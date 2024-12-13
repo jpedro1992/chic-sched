@@ -5,8 +5,8 @@ import (
 	"sort"
 	"unsafe"
 
-	"github.com/jpedro1992/chic-sched/pkg/topology"
-	"github.com/jpedro1992/chic-sched/pkg/util"
+	"github.com/ibm/chic-sched/pkg/topology"
+	"github.com/ibm/chic-sched/pkg/util"
 )
 
 // Placer : placer of a placement group

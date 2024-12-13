@@ -1,7 +1,7 @@
 package system
 
 import (
-	"github.com/jpedro1992/chic-sched/pkg/util"
+	"github.com/ibm/chic-sched/pkg/util"
 )
 
 // LEGroup : a group of homogeneous LEs

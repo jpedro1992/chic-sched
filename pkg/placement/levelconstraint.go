@@ -3,8 +3,8 @@ package placement
 import (
 	"fmt"
 
-	"github.com/jpedro1992/chic-sched/pkg/system"
-	"github.com/jpedro1992/chic-sched/pkg/util"
+	"github.com/ibm/chic-sched/pkg/system"
+	"github.com/ibm/chic-sched/pkg/util"
 )
 
 // LevelConstraint : a level constraint for placing a placement group

@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"unsafe"
 
-	"github.com/jpedro1992/chic-sched/pkg/system"
-	"github.com/jpedro1992/chic-sched/pkg/util"
+	"github.com/ibm/chic-sched/pkg/system"
+	"github.com/ibm/chic-sched/pkg/util"
 )
 
 // PTree : a physical tree topology

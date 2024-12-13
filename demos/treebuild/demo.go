@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/jpedro1992/chic-sched/demos"
-	"github.com/jpedro1992/chic-sched/pkg/builder"
-	"github.com/jpedro1992/chic-sched/pkg/placement"
-	"github.com/jpedro1992/chic-sched/pkg/util"
+	"github.com/ibm/chic-sched/demos"
+	"github.com/ibm/chic-sched/pkg/builder"
+	"github.com/ibm/chic-sched/pkg/placement"
+	"github.com/ibm/chic-sched/pkg/util"
 	"strings"
 )
 

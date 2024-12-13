@@ -3,9 +3,9 @@ package builder
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/jpedro1992/chic-sched/pkg/system"
-	"github.com/jpedro1992/chic-sched/pkg/topology"
-	"github.com/jpedro1992/chic-sched/pkg/util"
+	"github.com/ibm/chic-sched/pkg/system"
+	"github.com/ibm/chic-sched/pkg/topology"
+	"github.com/ibm/chic-sched/pkg/util"
 	"unsafe"
 )
 

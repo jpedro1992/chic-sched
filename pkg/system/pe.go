@@ -2,7 +2,7 @@ package system
 
 import (
 	"fmt"
-	"github.com/jpedro1992/chic-sched/pkg/util"
+	"github.com/ibm/chic-sched/pkg/util"
 	"sort"
 )
 
